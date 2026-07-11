@@ -6,6 +6,8 @@ directed- and random-exploration signatures from the classic explore/exploit stu
 > Wilson, R. C., Geana, A., White, J. M., Ludvig, E. A., & Cohen, J. D. (2014).
 > Humans use directed and random exploration to solve the explore–exploit dilemma.
 > *Journal of Experimental Psychology: General*, 143(6), 2074–2081.
+>
+> [Copy of CPSY1950 Final Project Draft Poster.pdf](https://github.com/user-attachments/files/29926629/Copy.of.CPSY1950.Final.Project.Draft.Poster.pdf)
 
 ## What this does
 
